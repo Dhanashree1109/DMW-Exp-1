@@ -1,9 +1,7 @@
 # DMW-Exp-1
 Dhanashree Badgujar
 <br>
-<br>
 Div :- A
-<br>
 <br>
 Roll No :- 35
 <br>
